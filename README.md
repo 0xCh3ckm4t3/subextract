@@ -1,6 +1,6 @@
 # Subdomain Extractor
 
-A simple Python tool to extract subdomains from a list of URLs.
+A simple Python tool to extract subdomains from waymore output/ list of urls.
 
 ## Requirements
 
